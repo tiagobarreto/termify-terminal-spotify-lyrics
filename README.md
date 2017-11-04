@@ -25,7 +25,7 @@ or
 ## Usage
 The Termify uses the **musixmatch.com** to displaying the lyrics playing in the **Spotify**.
 
-* Print the lyrics of a track music (Use: termify en)
+* Print the lyrics of a track music (Use: termify)
 ```
  $ termify
 
