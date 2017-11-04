@@ -29,7 +29,7 @@ requirements = ['requests', 'bs4', 'osascript', 'terminaltables']
 
 setup(
     name="termify",
-    version="1.0.0",
+    version="1.0.1",
     author="Tiago Barreto",
     author_email="iam@tiagobarreto.com",
     description="Termify is a simple service that permits you to retrieve lyrics in your terminal",
@@ -43,8 +43,8 @@ setup(
     entry_points={'console_scripts': ['termify=src.__main__:main']},
     classifiers=[
         'Development Status :: 3 - Alpha',
-        'Topic :: Music :: Lyrics',
-         'License :: OSI Approved :: MIT License',
+        'Topic :: Multimedia :: Sound/Audio :: Analysis',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
