@@ -96,12 +96,6 @@ The Termify uses the **musixmatch.com** to displaying the lyrics playing in the 
  * Deutsche (**de**)
  * Korean (**ko**)
  * Portuguese (**pt**/**pt-br**)
-
-## Todo
-
- * Player Control - Spotify
- * Search Music - Spotify
- * Discover Weekly - Spotify
  
 ## Support
 If you'd like, please consider telling your friends, social media followers, whomever about Termify.
